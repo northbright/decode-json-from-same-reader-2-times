@@ -15,7 +15,6 @@ jobs:
         - windows-2019
         - windows-latest
         - macos-12
-        - macos-14
         - macos-latest
         - ubuntu-20.04
         - ubuntu-22.04
