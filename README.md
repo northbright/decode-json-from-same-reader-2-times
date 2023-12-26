@@ -29,3 +29,6 @@ Lenovo Y7000
 Office Pre-Installed: true
 ===============================
 ```
+
+## References
+* [How to read multiple times from same io.Reader](https://stackoverflow.com/questions/39791021/how-to-read-multiple-times-from-same-io-reader)
