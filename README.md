@@ -3,7 +3,7 @@
 Example of reading and decoding JSON from the same `io.Reader` 2 times.
 
 ## How to Read and Decode JSON data from the Same io.Reader 2 Times
-* Use `io.TeeReader` to Duplicate the IO Stream
+* Use [io.TeeReader](https://pkg.go.dev/io#TeeReader) to Duplicate the IO Stream
 
 ## Example
 * Laptop is a Interface
