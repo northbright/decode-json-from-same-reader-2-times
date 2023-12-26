@@ -6,7 +6,7 @@ Example of reading and decoding JSON from the same `io.Reader` 2 times.
 * Use [io.TeeReader](https://pkg.go.dev/io#TeeReader) to Duplicate the IO Stream
 
 ## Example
-* Laptop is a Interface
+* Laptop is an Interface
 * MacBook and WindowsLaptop Types Implement the Laptop Interface
 * MacBook or WindowsLaptop Contains Specified Field(e.g. `WithAppleSilicon` for MacBook Type)
 * LoadFromJSON creates a Laptop Interface(`*MacBook` or `*WindowsLaptop`) by Loading the JSON Data
